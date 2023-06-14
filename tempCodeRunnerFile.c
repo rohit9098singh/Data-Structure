@@ -1,0 +1,1 @@
+printf("%d\t", p->data);
