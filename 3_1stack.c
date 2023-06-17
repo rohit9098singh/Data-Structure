@@ -35,7 +35,7 @@ int push()
     if (i == 0)
     {
         s1.top++;
-        printf("Enter the value to push");
+        printf("Enter the Number to push");
         scanf("%d", &x);
        s1.s[s1.top] = x;
     }
